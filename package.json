@@ -1,0 +1,19 @@
+{
+  "name": "saturday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "saturday.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-file": "^1.0.1",
+    "date-format": "0.0.2",
+    "dateformat": "^1.0.12",
+    "open": "0.0.5",
+    "prompt": "^1.0.0",
+    "request": "^2.70.0"
+  }
+}
